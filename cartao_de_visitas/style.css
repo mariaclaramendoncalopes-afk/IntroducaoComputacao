@@ -14,6 +14,7 @@ div{
     padding: 20px;
     border-radius: 10px;
     box-shadow: 5px 5px 5px rgba(99, 37, 101, 0.488);
+    border: 5px double rgba(81, 109, 36, 0.883);
 }
 
 img{
@@ -43,5 +44,9 @@ h3{
 }
 
 a{
-    color: rgba(156, 41, 158, 0.826);
+    color: rgba(193, 86, 195, 0.826);
+}
+
+a:hover {
+    color: rgb(187, 187, 144);
 }

@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgba(180, 195, 206, 0.494);
+}
+
+img{
+    height: 300px;
+    width: 100%;
+    object-fit: cover; /*mantém a proporção da imagem*/
+}
+
+.fundo{
+    background-color: white;
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+    padding: 10px 30px;
+}
+
+.fundo span h1{
+    padding-top: 10px;
+    text-align: center;
+}
+
+.fundo span h2{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.fundo li{
+    margin-left: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
